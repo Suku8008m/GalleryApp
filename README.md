@@ -1,7 +1,7 @@
 # 📸 GalleryApp
 
-LIVE DEMO :- https://gallery-app-teal.vercel.app/
-GitHub :- https://github.com/Suku8008m/GalleryApp
+LIVE DEMO :- https://gallery-app-teal.vercel.app/                                                                       
+GitHub :- https://github.com/Suku8008m/GalleryApp                                                                       
 A modern, full-stack image management application built with the **MERN** stack. GalleryApp allows users to upload, organize, and view their digital memories with a clean, responsive interface.
 
 ## 🚀 Features
