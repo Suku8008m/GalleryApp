@@ -1,16 +1,36 @@
-# React + Vite
+# 📸 GalleryApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, full-stack image management application built with the **MERN** stack. GalleryApp allows users to upload, organize, and view their digital memories with a clean, responsive interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **User Authentication:** Secure signup and login using JWT and bcrypt.
+* **Image Uploads:** Seamless integration for uploading images (via Cloudinary/Multer).
+* **Grid View:** Responsive masonry or grid layout for optimized viewing.
+* **Search & Filter:** Quickly find images based on titles or categories.
+* **Responsive Design:** Fully functional on mobile, tablet, and desktop views.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Frontend:**
+* **React.js** - UI Library
+* **Tailwind CSS** - Styling
+* **Redux Toolkit** (or Context API) - State Management
 
-## Expanding the ESLint configuration
+**Backend:**
+* **Node.js & Express** - Server-side logic
+* **MongoDB** - NoSQL Database
+* **Mongoose** - Data modeling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Cloud & Tools:**
+* **Cloudinary** - Image hosting and transformation
+* **JWT** - Secure authentication tokens
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Suku8008m/GalleryApp.git](https://github.com/Suku8008m/GalleryApp.git)
+   cd GalleryApp
